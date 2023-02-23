@@ -20,6 +20,7 @@
       "to": 50200
     }
   ],
+  "runtime": "10.0",
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
