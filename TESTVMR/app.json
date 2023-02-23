@@ -1,0 +1,28 @@
+{
+  "id": "394a04b8-c9a4-4280-99b9-09a6beecd489",
+  "name": "TESTVMR",
+  "publisher": "Vinczzz",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
